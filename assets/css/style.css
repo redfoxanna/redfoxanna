@@ -699,6 +699,10 @@ a:hover {
   font-size: 3rem;
 }
 
+.pets {
+  margin: auto;
+}
+
 @media (min-width: 768px) {
   .hero .hero-title {
     font-size: 4.5rem;
